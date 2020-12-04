@@ -1,2 +1,3 @@
 # Hello-World
-first repository
+
+I'am new in github and I am trying to figure out how to use it.
